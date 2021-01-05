@@ -13,7 +13,7 @@ Further information on how to use these scripts to create a stable dataset is in
 
 
 ### Limited support
-These scripts are provided 'as is', which means that very limited support is available. Some knowledge of python is required to adjust these scripts to your own setup, and it makes sense to read up on [the documentation of OpenCV](https://docs.opencv.org).
+These scripts are provided 'as is', which means that very limited support is available, but feel free to report an issue if something is broken. Some knowledge of python is required to adjust these scripts to your own setup, and it makes sense to read up on [the documentation of OpenCV](https://docs.opencv.org).
 
 ### Funding sources
 These scripts are part of the outcome of two research projects funded by the Research Council of Norway under project numbers 230970 (SnoEco) and 269927 (SIOS-InfraNor).
